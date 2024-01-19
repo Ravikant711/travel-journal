@@ -1,3 +1,2 @@
 
 # travel-journal
->>>>>>> origin/main
